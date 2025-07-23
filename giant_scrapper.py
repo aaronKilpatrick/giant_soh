@@ -12,8 +12,8 @@ def get_default_chrome_options():
     options = webdriver.ChromeOptions()
     options.add_argument("--no-sandbox")
     options.add_argument("--headless=new")
-    options.add_argument("--start-maximized")
-    options.add_experimental_option("detach", True)
+    # options.add_argument("--start-maximized")
+    # options.add_experimental_option("detach", True)
     # options.add_argument("--log-level=3")
     return options
 
