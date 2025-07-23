@@ -1,48 +1,988 @@
-SKU,PRODUCT_DESCRIPTION,SIZE,STOCK_LEVEL
-4129007124,Cross City Disc 2 (2025),S,0
-4129007125,Cross City Disc 2 (2025),M,0
-4129007127,Cross City Disc 2 (2025),L,0
-4129007128,Cross City Disc 2 (2025),XL,0
-4129005124,Cross City Disc 2 Equipped (2025),S,0
-4129005125,Cross City Disc 2 Equipped (2025),M,0
-4129005127,Cross City Disc 2 Equipped (2025),L,0
-4129005128,Cross City Disc 2 Equipped (2025),XL,0
-9031008103,Giant Defy Advanced SL 0,XS,1
-9031008104,Giant Defy Advanced SL 0,S,0
-9031008105,Giant Defy Advanced SL 0,M,0
-9031008106,Giant Defy Advanced SL 0,ML,0
-9031008107,Giant Defy Advanced SL 0,L,0
-9031008108,Giant Defy Advanced SL 0,XL,1
-9024007123,Contend AR 2 (2024),XS,0
-9024007124,Contend AR 2 (2024),S,0
-9024007125,Contend AR 2 (2024),M,0
-9024007126,Contend AR 2 (2024),ML,0
-9024007127,Contend AR 2 (2024),L,0
-9024007128,Contend AR 2 (2024),XL,0
-9041004123,FastRoad AR Advanced 2 (2024),XS,1
-9041004124,FastRoad AR Advanced 2 (2024),S,0
-9041004125,FastRoad AR Advanced 2 (2024),M,0
-9041004126,FastRoad AR Advanced 2 (2024),ML,0
-9041004127,FastRoad AR Advanced 2 (2024),L,0
-9041004128,FastRoad AR Advanced 2 (2024),XL,0
-8351000204,Anytour X E+ 3 (2024),S,1
-8351000205,Anytour X E+ 3 (2024),M,1
-8351000207,Anytour X E+ 3 (2024),L,1
-8351000208,Anytour X E+ 3 (2024),XL,1
-8690000154,Expression E+ (2024),S,1
-8690000155,Expression E+ (2024),M,1
-8690000157,Expression E+ (2024),L,1
-8690000254,Expression E+ (2024),S,1
-8690000255,Expression E+ (2024),M,1
-8690000257,Expression E+ (2024),L,1
-2310162123,FastRoad AR 1 (2023),XS,0
-2310162124,FastRoad AR 1 (2023),S,0
-2310162125,FastRoad AR 1 (2023),M,0
-2310162126,FastRoad AR 1 (2023),ML,0
-2310162127,FastRoad AR 1 (2023),L,0
-2310162128,FastRoad AR 1 (2023),XL,0
-2213104104,FastRoad E+ EX (2022),S,0
-2213104105,FastRoad E+ EX (2022),M,1
-2213104106,FastRoad E+ EX (2022),ML,1
-2213104107,FastRoad E+ EX (2022),L,0
-2213104108,FastRoad E+ EX (2022),XL,0
+SKU,PRODUCT_DESCRIPTION,STOCK_LEVEL
+9074009103,Propel Advanced SL 0 Dura-Ace (2025),0
+9074009104,Propel Advanced SL 0 Dura-Ace (2025),0
+9074009105,Propel Advanced SL 0 Dura-Ace (2025),1
+9074009106,Propel Advanced SL 0 Dura-Ace (2025),0
+9074009107,Propel Advanced SL 0 Dura-Ace (2025),0
+9074009108,Propel Advanced SL 0 Dura-Ace (2025),0
+1906004103,Propel Advanced SL Frameset (2025),0
+1906004104,Propel Advanced SL Frameset (2025),0
+1906004105,Propel Advanced SL Frameset (2025),0
+1906004106,Propel Advanced SL Frameset (2025),0
+1906004107,Propel Advanced SL Frameset (2025),0
+1906004108,Propel Advanced SL Frameset (2025),0
+1906004203,Propel Advanced SL Frameset (2025),0
+1906004204,Propel Advanced SL Frameset (2025),0
+1906004205,Propel Advanced SL Frameset (2025),0
+1906004206,Propel Advanced SL Frameset (2025),0
+1906004207,Propel Advanced SL Frameset (2025),0
+1906004208,Propel Advanced SL Frameset (2025),0
+9074015103,Propel Advanced Pro 1 (2025),0
+9074015104,Propel Advanced Pro 1 (2025),1
+9074015105,Propel Advanced Pro 1 (2025),0
+9074015106,Propel Advanced Pro 1 (2025),0
+9074015107,Propel Advanced Pro 1 (2025),0
+9074015108,Propel Advanced Pro 1 (2025),0
+9074007103,Propel Advanced Pro 0 Di2 (2025),0
+9074007104,Propel Advanced Pro 0 Di2 (2025),0
+9074007105,Propel Advanced Pro 0 Di2 (2025),0
+9074007106,Propel Advanced Pro 0 Di2 (2025),0
+9074007107,Propel Advanced Pro 0 Di2 (2025),0
+9074007108,Propel Advanced Pro 0 Di2 (2025),0
+1913007503,TCR Advanced SL Team Frameset (2025),0
+1913007504,TCR Advanced SL Team Frameset (2025),0
+1913007505,TCR Advanced SL Team Frameset (2025),0
+1913007506,TCR Advanced SL Team Frameset (2025),1
+1913007507,TCR Advanced SL Team Frameset (2025),0
+1913007508,TCR Advanced SL Team Frameset (2025),1
+1913007103,TCR Advanced SL Frameset,0
+1913007104,TCR Advanced SL Frameset,0
+1913007105,TCR Advanced SL Frameset,0
+1913007106,TCR Advanced SL Frameset,0
+1913007107,TCR Advanced SL Frameset,0
+1913007108,TCR Advanced SL Frameset,1
+1913007203,TCR Advanced SL Frameset,0
+1913007204,TCR Advanced SL Frameset,0
+1913007205,TCR Advanced SL Frameset,0
+1913007206,TCR Advanced SL Frameset,0
+1913007207,TCR Advanced SL Frameset,1
+1913007208,TCR Advanced SL Frameset,1
+1913007303,TCR Advanced SL Frameset,0
+1913007304,TCR Advanced SL Frameset,1
+1913007305,TCR Advanced SL Frameset,1
+1913007306,TCR Advanced SL Frameset,0
+1913007307,TCR Advanced SL Frameset,1
+1913007308,TCR Advanced SL Frameset,1
+9096032103,TCR Advanced SL 0 Red,0
+9096032104,TCR Advanced SL 0 Red,0
+9096032105,TCR Advanced SL 0 Red,0
+9096032106,TCR Advanced SL 0 Red,0
+9096032107,TCR Advanced SL 0 Red,1
+9096032108,TCR Advanced SL 0 Red,1
+9096031103,TCR Advanced SL 0,0
+9096031104,TCR Advanced SL 0,0
+9096031105,TCR Advanced SL 0,0
+9096031106,TCR Advanced SL 0,0
+9096031107,TCR Advanced SL 0,1
+9096031108,TCR Advanced SL 0,1
+9096033103,TCR Advanced SL 1,0
+9096033104,TCR Advanced SL 1,1
+9096033105,TCR Advanced SL 1,0
+9096033106,TCR Advanced SL 1,0
+9096033107,TCR Advanced SL 1,0
+9096033108,TCR Advanced SL 1,0
+9096025103,TCR Advanced Pro 0 Di2,0
+9096025104,TCR Advanced Pro 0 Di2,0
+9096025105,TCR Advanced Pro 0 Di2,0
+9096025106,TCR Advanced Pro 0 Di2,0
+9096025107,TCR Advanced Pro 0 Di2,0
+9096025108,TCR Advanced Pro 0 Di2,0
+9096028103,TCR Advanced Pro 1 Di2,0
+9096028104,TCR Advanced Pro 1 Di2,0
+9096028105,TCR Advanced Pro 1 Di2,0
+9096028106,TCR Advanced Pro 1 Di2,0
+9096028107,TCR Advanced Pro 1 Di2,0
+9096028108,TCR Advanced Pro 1 Di2,0
+9096023103,TCR Advanced 1 PC,0
+9096023104,TCR Advanced 1 PC,0
+9096023105,TCR Advanced 1 PC,0
+9096023106,TCR Advanced 1 PC,0
+9096023107,TCR Advanced 1 PC,0
+9096023108,TCR Advanced 1 PC,0
+9096036103,TCR Advanced 2 PC,0
+9096036104,TCR Advanced 2 PC,0
+9096036105,TCR Advanced 2 PC,0
+9096036106,TCR Advanced 2 PC,0
+9096036107,TCR Advanced 2 PC,0
+9096036108,TCR Advanced 2 PC,0
+9031017103,Defy Advanced SL 0 (2025),1
+9031017104,Defy Advanced SL 0 (2025),1
+9031017105,Defy Advanced SL 0 (2025),0
+9031017106,Defy Advanced SL 0 (2025),0
+9031017107,Defy Advanced SL 0 (2025),1
+9031017108,Defy Advanced SL 0 (2025),0
+9031018103,Defy Advanced SL 1 (2025),1
+9031018104,Defy Advanced SL 1 (2025),1
+9031018105,Defy Advanced SL 1 (2025),0
+9031018106,Defy Advanced SL 1 (2025),0
+9031018107,Defy Advanced SL 1 (2025),1
+9031018108,Defy Advanced SL 1 (2025),0
+9031014103,Defy Advanced Pro 0 (2025),0
+9031014104,Defy Advanced Pro 0 (2025),0
+9031014105,Defy Advanced Pro 0 (2025),0
+9031014106,Defy Advanced Pro 0 (2025),0
+9031014107,Defy Advanced Pro 0 (2025),0
+9031014108,Defy Advanced Pro 0 (2025),0
+9031015103,Defy Advanced Pro 1 (2025),1
+9031015104,Defy Advanced Pro 1 (2025),1
+9031015105,Defy Advanced Pro 1 (2025),1
+9031015106,Defy Advanced Pro 1 (2025),1
+9031015107,Defy Advanced Pro 1 (2025),1
+9031015108,Defy Advanced Pro 1 (2025),0
+9031011123,Defy Advanced 1 (2025),0
+9031011124,Defy Advanced 1 (2025),1
+9031011125,Defy Advanced 1 (2025),0
+9031011126,Defy Advanced 1 (2025),0
+9031011127,Defy Advanced 1 (2025),0
+9031011128,Defy Advanced 1 (2025),0
+9031012123,Defy Advanced 2 (2025),0
+9031012124,Defy Advanced 2 (2025),0
+9031012125,Defy Advanced 2 (2025),0
+9031012126,Defy Advanced 2 (2025),0
+9031012127,Defy Advanced 2 (2025),0
+9031012128,Defy Advanced 2 (2025),0
+6040000104,Defy Advanced E+ Elite 0 (2025),0
+6040000105,Defy Advanced E+ Elite 0 (2025),0
+6040000106,Defy Advanced E+ Elite 0 (2025),0
+6040000107,Defy Advanced E+ Elite 0 (2025),1
+6040000108,Defy Advanced E+ Elite 0 (2025),1
+6040001104,Defy Advanced E+ Elite 1 (2025),0
+6040001105,Defy Advanced E+ Elite 1 (2025),0
+6040001106,Defy Advanced E+ Elite 1 (2025),1
+6040001107,Defy Advanced E+ Elite 1 (2025),1
+6040001108,Defy Advanced E+ Elite 1 (2025),0
+6040002104,Defy Advanced E+ Elite 2 (2025),0
+6040002105,Defy Advanced E+ Elite 2 (2025),1
+6040002106,Defy Advanced E+ Elite 2 (2025),1
+6040002107,Defy Advanced E+ Elite 2 (2025),1
+6040002108,Defy Advanced E+ Elite 2 (2025),1
+6040003104,Defy Advanced E+ Elite AR (2025),0
+6040003105,Defy Advanced E+ Elite AR (2025),0
+6040003106,Defy Advanced E+ Elite AR (2025),1
+6040003107,Defy Advanced E+ Elite AR (2025),1
+6040003108,Defy Advanced E+ Elite AR (2025),1
+9024013223,Contend AR 4 (2025),0
+9024013224,Contend AR 4 (2025),1
+9024013225,Contend AR 4 (2025),1
+9024013226,Contend AR 4 (2025),1
+9024013227,Contend AR 4 (2025),1
+9024013228,Contend AR 4 (2025),1
+9024012123,Contend AR 3 (2025),1
+9024012124,Contend AR 3 (2025),0
+9024012125,Contend AR 3 (2025),1
+9024012126,Contend AR 3 (2025),1
+9024012127,Contend AR 3 (2025),0
+9024012128,Contend AR 3 (2025),0
+9024020123,Contend AR 2 (2025),0
+9024020124,Contend AR 2 (2025),0
+9024020125,Contend AR 2 (2025),0
+9024020126,Contend AR 2 (2025),0
+9024020127,Contend AR 2 (2025),0
+9024020128,Contend AR 2 (2025),0
+9024019123,Contend AR 1 (2025),1
+9024019124,Contend AR 1 (2025),0
+9024019125,Contend AR 1 (2025),0
+9024019126,Contend AR 1 (2025),0
+9024019127,Contend AR 1 (2025),0
+9024019128,Contend AR 1 (2025),0
+9138002103,Trinity Advanced SL 2 (2025),1
+9138002104,Trinity Advanced SL 2 (2025),1
+9138002105,Trinity Advanced SL 2 (2025),0
+9138002107,Trinity Advanced SL 2 (2025),0
+9138001103,Trinity Advanced SL 1 (2025),1
+9138001104,Trinity Advanced SL 1 (2025),1
+9138001105,Trinity Advanced SL 1 (2025),0
+9138001107,Trinity Advanced SL 1 (2025),0
+9138005103,Trinity Advanced SL 0 (2025),0
+9138005104,Trinity Advanced SL 0 (2025),0
+9138005105,Trinity Advanced SL 0 (2025),0
+9138005107,Trinity Advanced SL 0 (2025),0
+1917001103,Trinity Advanced SL Triathlon Frameset (2025),1
+1917001104,Trinity Advanced SL Triathlon Frameset (2025),1
+1917001105,Trinity Advanced SL Triathlon Frameset (2025),0
+1917001107,Trinity Advanced SL Triathlon Frameset (2025),0
+1917002103,Trinity Advanced SL Time Trial Frameset (2025),1
+1917002104,Trinity Advanced SL Time Trial Frameset (2025),1
+1917002105,Trinity Advanced SL Time Trial Frameset (2025),0
+1917002107,Trinity Advanced SL Time Trial Frameset (2025),0
+9041010123,FastRoad AR Advanced 2 (2025),0
+9041010124,FastRoad AR Advanced 2 (2025),0
+9041010125,FastRoad AR Advanced 2 (2025),0
+9041010126,FastRoad AR Advanced 2 (2025),0
+9041010127,FastRoad AR Advanced 2 (2025),0
+9041010128,FastRoad AR Advanced 2 (2025),0
+9041009123,FastRoad AR Advanced 1 (2025),0
+9041009124,FastRoad AR Advanced 1 (2025),0
+9041009125,FastRoad AR Advanced 1 (2025),0
+9041009126,FastRoad AR Advanced 1 (2025),0
+9041009127,FastRoad AR Advanced 1 (2025),0
+9041009128,FastRoad AR Advanced 1 (2025),0
+9041008123,FastRoad AR 2 (2025),0
+9041008124,FastRoad AR 2 (2025),0
+9041008125,FastRoad AR 2 (2025),0
+9041008126,FastRoad AR 2 (2025),0
+9041008127,FastRoad AR 2 (2025),0
+9041008128,FastRoad AR 2 (2025),0
+4129006124,Cross City Disc 3 (2025),0
+4129006125,Cross City Disc 3 (2025),0
+4129006127,Cross City Disc 3 (2025),0
+4129006128,Cross City Disc 3 (2025),0
+4129007124,Cross City Disc 2 (2025),0
+4129007125,Cross City Disc 2 (2025),0
+4129007127,Cross City Disc 2 (2025),0
+4129007128,Cross City Disc 2 (2025),0
+4129005124,Cross City Disc 2 Equipped (2025),0
+4129005125,Cross City Disc 2 Equipped (2025),0
+4129005127,Cross City Disc 2 Equipped (2025),0
+4129005128,Cross City Disc 2 Equipped (2025),0
+9031008103,Giant Defy Advanced SL 0,1
+9031008104,Giant Defy Advanced SL 0,0
+9031008105,Giant Defy Advanced SL 0,0
+9031008106,Giant Defy Advanced SL 0,0
+9031008107,Giant Defy Advanced SL 0,0
+9031008108,Giant Defy Advanced SL 0,1
+9024007123,Contend AR 2 (2024),0
+9024007124,Contend AR 2 (2024),0
+9024007125,Contend AR 2 (2024),0
+9024007126,Contend AR 2 (2024),0
+9024007127,Contend AR 2 (2024),0
+9024007128,Contend AR 2 (2024),0
+9041004123,FastRoad AR Advanced 2 (2024),1
+9041004124,FastRoad AR Advanced 2 (2024),0
+9041004125,FastRoad AR Advanced 2 (2024),0
+9041004126,FastRoad AR Advanced 2 (2024),0
+9041004127,FastRoad AR Advanced 2 (2024),0
+9041004128,FastRoad AR Advanced 2 (2024),0
+8351000204,Anytour X E+ 3 (2024),1
+8351000205,Anytour X E+ 3 (2024),1
+8351000207,Anytour X E+ 3 (2024),1
+8351000208,Anytour X E+ 3 (2024),1
+8690000154,Expression E+ (2024),1
+8690000155,Expression E+ (2024),1
+8690000157,Expression E+ (2024),1
+8690000254,Expression E+ (2024),1
+8690000255,Expression E+ (2024),1
+8690000257,Expression E+ (2024),1
+2310162123,FastRoad AR 1 (2023),0
+2310162124,FastRoad AR 1 (2023),0
+2310162125,FastRoad AR 1 (2023),0
+2310162126,FastRoad AR 1 (2023),0
+2310162127,FastRoad AR 1 (2023),0
+2310162128,FastRoad AR 1 (2023),0
+2213104104,FastRoad E+ EX (2022),0
+2213104105,FastRoad E+ EX (2022),1
+2213104106,FastRoad E+ EX (2022),1
+2213104107,FastRoad E+ EX (2022),0
+2213104108,FastRoad E+ EX (2022),0
+9008005104,Anthem Advanced 29 1 (2025),1
+9008005105,Anthem Advanced 29 1 (2025),1
+9008005107,Anthem Advanced 29 1 (2025),1
+9008005108,Anthem Advanced 29 1 (2025),1
+9008008104,Anthem Advanced 29 4 (2025),1
+9008008105,Anthem Advanced 29 4 (2025),1
+9008008107,Anthem Advanced 29 4 (2025),1
+9008008108,Anthem Advanced 29 4 (2025),1
+9135002100,Dream Big,1
+9135001100,Dream Big,1
+9095007124,Talon 0 (2025),0
+9095007125,Talon 0 (2025),0
+9095007127,Talon 0 (2025),0
+9095007128,Talon 0 (2025),0
+9095008124,Talon 1 (2025),1
+9095008125,Talon 1 (2025),1
+9095008127,Talon 1 (2025),1
+9095008128,Talon 1 (2025),1
+9095009124,Talon 2 (2025),0
+9095009125,Talon 2 (2025),0
+9095009127,Talon 2 (2025),0
+9095009128,Talon 2 (2025),0
+9095009324,Talon 2 (2025),1
+9095009325,Talon 2 (2025),0
+9095009327,Talon 2 (2025),0
+9095009328,Talon 2 (2025),0
+9094010123,Talon 3 (2025),1
+9094010124,Talon 3 (2025),0
+9095010124,Talon 3 (2025),0
+9095010125,Talon 3 (2025),1
+9095010127,Talon 3 (2025),1
+9095010128,Talon 3 (2025),0
+9094010223,Talon 3 (2025),1
+9094010224,Talon 3 (2025),1
+9095010224,Talon 3 (2025),1
+9095010225,Talon 3 (2025),1
+9095010227,Talon 3 (2025),1
+9095010228,Talon 3 (2025),1
+9094011123,Talon 4 (2025),0
+9094011124,Talon 4 (2025),0
+9095011124,Talon 4 (2025),0
+9095011125,Talon 4 (2025),0
+9095011127,Talon 4 (2025),0
+9095011128,Talon 4 (2025),0
+9094011223,Talon 4 (2025),0
+9094011224,Talon 4 (2025),0
+9095011224,Talon 4 (2025),0
+9095011225,Talon 4 (2025),0
+9095011227,Talon 4 (2025),1
+9095011228,Talon 4 (2025),0
+9089004103,Stance (2025),0
+9089004104,Stance (2025),1
+9089005104,Stance 29 (2025),1
+9089005105,Stance 29 (2025),0
+9089005107,Stance 29 (2025),1
+9089005108,Stance 29 (2025),1
+9077003104,Reign Advanced 1 (2025),1
+9077003105,Reign Advanced 1 (2025),0
+9077003107,Reign Advanced 1 (2025),1
+9077003108,Reign Advanced 1 (2025),0
+9125004104,Reign 1 (2025),1
+9125004105,Reign 1 (2025),1
+9125004107,Reign 1 (2025),1
+9125004108,Reign 1 (2025),1
+1904002104,Glory Advanced Frameset (2025),1
+1904002105,Glory Advanced Frameset (2025),1
+1904002107,Glory Advanced Frameset (2025),1
+9008002104,Anthem Advanced 29 1 (2024),0
+9008002105,Anthem Advanced 29 1 (2024),0
+9008002107,Anthem Advanced 29 1 (2024),0
+9008002108,Anthem Advanced 29 1 (2024),0
+9008003104,Anthem Advanced 29 2 (2024),0
+9008003105,Anthem Advanced 29 2 (2024),0
+9008003107,Anthem Advanced 29 2 (2024),1
+9008003108,Anthem Advanced 29 2 (2024),0
+9008004104,Anthem Advanced 29 3 (2024),1
+9008004105,Anthem Advanced 29 3 (2024),1
+9008004107,Anthem Advanced 29 3 (2024),1
+9008004108,Anthem Advanced 29 3 (2024),1
+9043004224,Fathom 29 2 (2024),0
+9043004225,Fathom 29 2 (2024),0
+9043004227,Fathom 29 2 (2024),0
+9043004228,Fathom 29 2 (2024),0
+9109003104,Trance X Advanced 0 (2024),1
+9109003105,Trance X Advanced 0 (2024),0
+9109003107,Trance X Advanced 0 (2024),0
+9109003108,Trance X Advanced 0 (2024),0
+9109004104,Trance X Advanced 1 (2024),1
+9109004105,Trance X Advanced 1 (2024),1
+9109004107,Trance X Advanced 1 (2024),1
+9109004108,Trance X Advanced 1 (2024),1
+9109005104,Trance X Advanced 2 (2024),1
+9109005105,Trance X Advanced 2 (2024),1
+9109005107,Trance X Advanced 2 (2024),1
+9109005108,Trance X Advanced 2 (2024),1
+9110001104,Trance X 1 (2024),0
+9110001105,Trance X 1 (2024),0
+9110001107,Trance X 1 (2024),0
+9110001108,Trance X 1 (2024),0
+9110002104,Trance X 2 (2024),0
+9110002105,Trance X 2 (2024),0
+9110002107,Trance X 2 (2024),0
+9110002108,Trance X 2 (2024),0
+9109009104,Trance Advanced 29 0 (2024),0
+9109009105,Trance Advanced 29 0 (2024),1
+9109009107,Trance Advanced 29 0 (2024),1
+9109009108,Trance Advanced 29 0 (2024),0
+6028031104,Trance X Advanced E+ Elite 1 (2024),0
+6028031105,Trance X Advanced E+ Elite 1 (2024),0
+6028031107,Trance X Advanced E+ Elite 1 (2024),0
+6028031108,Trance X Advanced E+ Elite 1 (2024),1
+6028032104,Trance X Advanced E+ Elite 2 (2024),1
+6028032105,Trance X Advanced E+ Elite 2 (2024),1
+6028032107,Trance X Advanced E+ Elite 2 (2024),1
+6028032108,Trance X Advanced E+ Elite 2 (2024),1
+6028033104,Trance X Advanced E+ Elite 3 (2024),1
+6028033105,Trance X Advanced E+ Elite 3 (2024),1
+6028033107,Trance X Advanced E+ Elite 3 (2024),1
+6028033108,Trance X Advanced E+ Elite 3 (2024),1
+9077001104,Reign Advanced 1 (2024),1
+9077001105,Reign Advanced 1 (2024),1
+9077001107,Reign Advanced 1 (2024),1
+9077001108,Reign Advanced 1 (2024),0
+9077002104,Reign Advanced 2 (2024),1
+9077002105,Reign Advanced 2 (2024),1
+9077002107,Reign Advanced 2 (2024),1
+9077002108,Reign Advanced 2 (2024),1
+9125001104,Reign 1 (2024),1
+9125001105,Reign 1 (2024),0
+9125001107,Reign 1 (2024),1
+9125001108,Reign 1 (2024),1
+9125002104,Reign 2 (2024),0
+9125002105,Reign 2 (2024),1
+9125002107,Reign 2 (2024),1
+9125002108,Reign 2 (2024),0
+6046000104,Reign E+ 1 (2024),1
+6046000105,Reign E+ 1 (2024),1
+6046000107,Reign E+ 1 (2024),0
+6046000108,Reign E+ 1 (2024),0
+6046001104,Reign E+ 2 (2024),1
+6046001105,Reign E+ 2 (2024),0
+6046001107,Reign E+ 2 (2024),0
+6046001108,Reign E+ 2 (2024),0
+6046002104,Reign E+ 3 (2024),1
+6046002105,Reign E+ 3 (2024),1
+6046002107,Reign E+ 3 (2024),0
+6046002108,Reign E+ 3 (2024),0
+2311091104,Glory Advanced (2024),1
+2311091105,Glory Advanced (2024),1
+2311091107,Glory Advanced (2024),1
+2301022104,Glory Advanced Legends Edition Frameset (2024),1
+2301022105,Glory Advanced Legends Edition Frameset (2024),1
+2301022107,Glory Advanced Legends Edition Frameset (2024),1
+2311046104,Trance Advanced Pro 29 1 (2023),1
+2311046105,Trance Advanced Pro 29 1 (2023),1
+2311046107,Trance Advanced Pro 29 1 (2023),1
+2311046108,Trance Advanced Pro 29 1 (2023),1
+2311047104,Trance Advanced Pro 29 2 (2023),0
+2311047105,Trance Advanced Pro 29 2 (2023),1
+2311047107,Trance Advanced Pro 29 2 (2023),1
+2311047108,Trance Advanced Pro 29 2 (2023),1
+2311053104,Trance X Advanced Pro 29 1 (2023),0
+2311053105,Trance X Advanced Pro 29 1 (2023),0
+2311053107,Trance X Advanced Pro 29 1 (2023),1
+2311053108,Trance X Advanced Pro 29 1 (2023),0
+2313402154,Talon E+ 3 (2023),1
+2313402155,Talon E+ 3 (2023),0
+2313402157,Talon E+ 3 (2023),0
+2313402158,Talon E+ 3 (2023),0
+2313303104,Trance X Advanced E+ Elite 0 (2023),0
+2313303105,Trance X Advanced E+ Elite 0 (2023),1
+2313303107,Trance X Advanced E+ Elite 0 (2023),0
+2313303108,Trance X Advanced E+ Elite 0 (2023),1
+2313309104,Trance X E+ 1 (2023),1
+2313309105,Trance X E+ 1 (2023),1
+2313309107,Trance X E+ 1 (2023),1
+2313309108,Trance X E+ 1 (2023),0
+2313311104,Trance X E+ 3 (2023),1
+2313311105,Trance X E+ 3 (2023),1
+2313311107,Trance X E+ 3 (2023),1
+2313311108,Trance X E+ 3 (2023),0
+2313316104,Stance E+ 2 625 (2023),1
+2313316105,Stance E+ 2 625 (2023),0
+2313316107,Stance E+ 2 625 (2023),0
+2313316108,Stance E+ 2 625 (2023),0
+2311099104,Reign Advanced Pro 0 (2023),1
+2311099105,Reign Advanced Pro 0 (2023),1
+2311099107,Reign Advanced Pro 0 (2023),1
+2311099108,Reign Advanced Pro 0 (2023),0
+2311302104,Reign Advanced Pro 2 (2023),0
+2311302105,Reign Advanced Pro 2 (2023),0
+2311302107,Reign Advanced Pro 2 (2023),1
+2311302108,Reign Advanced Pro 2 (2023),0
+2311301104,Reign Advanced Pro 1 (2023),1
+2311301105,Reign Advanced Pro 1 (2023),1
+2311301107,Reign Advanced Pro 1 (2023),1
+2311301108,Reign Advanced Pro 1 (2023),1
+2211053104,Trance X Advanced Pro 29 1 (2022),0
+2211053105,Trance X Advanced Pro 29 1 (2022),0
+2211053107,Trance X Advanced Pro 29 1 (2022),0
+2211053108,Trance X Advanced Pro 29 1 (2022),0
+2211046104,Trance Advanced Pro 29 1 (2022),0
+2211046105,Trance Advanced Pro 29 1 (2022),0
+2211046107,Trance Advanced Pro 29 1 (2022),0
+2211046108,Trance Advanced Pro 29 1 (2022),0
+2211077104,Trance X 1 (2022),0
+2211077105,Trance X 1 (2022),0
+2211077107,Trance X 1 (2022),1
+2211077108,Trance X 1 (2022),1
+2211079104,Trance X 3 (2022),0
+2211079105,Trance X 3 (2022),0
+2211079107,Trance X 3 (2022),0
+2211079108,Trance X 3 (2022),1
+2211004103,Stance (2022),0
+2211004104,Stance (2022),0
+2211004105,Stance (2022),0
+2211004107,Stance (2022),1
+2211004108,Stance (2022),0
+2211038104,Reign Advanced Pro 29 1 (2022),0
+2211038105,Reign Advanced Pro 29 1 (2022),1
+2211038107,Reign Advanced Pro 29 1 (2022),1
+2211038108,Reign Advanced Pro 29 1 (2022),1
+2211039104,Reign Advanced Pro 29 2 (2022),0
+2211039105,Reign Advanced Pro 29 2 (2022),0
+2211039107,Reign Advanced Pro 29 2 (2022),0
+2211039108,Reign Advanced Pro 29 2 (2022),0
+9079017103,Revolt Advanced Pro 0 (2025),0
+9079017104,Revolt Advanced Pro 0 (2025),0
+9079017105,Revolt Advanced Pro 0 (2025),0
+9079017106,Revolt Advanced Pro 0 (2025),1
+9079017107,Revolt Advanced Pro 0 (2025),1
+9079017108,Revolt Advanced Pro 0 (2025),0
+9079013203,Revolt Advanced 0 (2025),0
+9079013204,Revolt Advanced 0 (2025),0
+9079013205,Revolt Advanced 0 (2025),0
+9079013206,Revolt Advanced 0 (2025),0
+9079013207,Revolt Advanced 0 (2025),0
+9079013208,Revolt Advanced 0 (2025),0
+9079014123,Revolt Advanced 1 (2025),1
+9079014124,Revolt Advanced 1 (2025),0
+9079014125,Revolt Advanced 1 (2025),1
+9079014126,Revolt Advanced 1 (2025),1
+9079014127,Revolt Advanced 1 (2025),1
+9079014128,Revolt Advanced 1 (2025),1
+9079015123,Revolt Advanced 2 (2025),0
+9079015124,Revolt Advanced 2 (2025),0
+9079015125,Revolt Advanced 2 (2025),0
+9079015126,Revolt Advanced 2 (2025),0
+9079015127,Revolt Advanced 2 (2025),0
+9079015128,Revolt Advanced 2 (2025),0
+9079016123,Revolt Advanced 3 (2025),0
+9079016124,Revolt Advanced 3 (2025),0
+9079016125,Revolt Advanced 3 (2025),1
+9079016126,Revolt Advanced 3 (2025),1
+9079016127,Revolt Advanced 3 (2025),0
+9079016128,Revolt Advanced 3 (2025),0
+9079011123,Revolt 1 (2025),0
+9079011124,Revolt 1 (2025),0
+9079011125,Revolt 1 (2025),0
+9079011126,Revolt 1 (2025),0
+9079011127,Revolt 1 (2025),0
+9079011128,Revolt 1 (2025),0
+9079012123,Revolt 2 (2025),0
+9079012124,Revolt 2 (2025),0
+9079012125,Revolt 2 (2025),1
+9079012126,Revolt 2 (2025),1
+9079012127,Revolt 2 (2025),1
+9079012128,Revolt 2 (2025),0
+9082008124,Roam 1 (2025),1
+9082008125,Roam 1 (2025),1
+9082008127,Roam 1 (2025),0
+9082008128,Roam 1 (2025),0
+9082009124,Roam 2 (2025),0
+9082009125,Roam 2 (2025),0
+9082009127,Roam 2 (2025),0
+9082009128,Roam 2 (2025),0
+8351000204,Anytour X E+ 3 (2024),1
+8351000205,Anytour X E+ 3 (2024),1
+8351000207,Anytour X E+ 3 (2024),1
+8351000208,Anytour X E+ 3 (2024),1
+9080002103,Revolt X Advanced Pro 0 (2024),1
+9080002104,Revolt X Advanced Pro 0 (2024),1
+9080002105,Revolt X Advanced Pro 0 (2024),1
+9080002106,Revolt X Advanced Pro 0 (2024),1
+9080002107,Revolt X Advanced Pro 0 (2024),1
+9080002108,Revolt X Advanced Pro 0 (2024),1
+9080004103,Revolt X Advanced Pro 2 (2024),1
+9080004104,Revolt X Advanced Pro 2 (2024),0
+9080004105,Revolt X Advanced Pro 2 (2024),1
+9080004106,Revolt X Advanced Pro 2 (2024),1
+9080004107,Revolt X Advanced Pro 2 (2024),1
+9080004108,Revolt X Advanced Pro 2 (2024),0
+9079005103,Revolt Advanced 1 (2024),1
+9079005104,Revolt Advanced 1 (2024),0
+9079005105,Revolt Advanced 1 (2024),1
+9079005106,Revolt Advanced 1 (2024),1
+9079005107,Revolt Advanced 1 (2024),0
+9079005108,Revolt Advanced 1 (2024),1
+2312014104,TCX Advanced Pro 0 (2023),0
+2312014105,TCX Advanced Pro 0 (2023),0
+2312014106,TCX Advanced Pro 0 (2023),0
+2312014107,TCX Advanced Pro 0 (2023),0
+2312014108,TCX Advanced Pro 0 (2023),1
+2312009123,Revolt Advanced 1 (2023),1
+2312009124,Revolt Advanced 1 (2023),0
+2312009125,Revolt Advanced 1 (2023),1
+2312009126,Revolt Advanced 1 (2023),0
+2312009127,Revolt Advanced 1 (2023),0
+2312009128,Revolt Advanced 1 (2023),0
+2312029103,Revolt X Advanced Pro 2 (2023),1
+2312029104,Revolt X Advanced Pro 2 (2023),1
+2312029105,Revolt X Advanced Pro 2 (2023),0
+2312029106,Revolt X Advanced Pro 2 (2023),1
+2312029107,Revolt X Advanced Pro 2 (2023),0
+2312029108,Revolt X Advanced Pro 2 (2023),1
+2312107124,Roam Disc 4 (2023),0
+2312107125,Roam Disc 4 (2023),0
+2312107127,Roam Disc 4 (2023),0
+2312107128,Roam Disc 4 (2023),0
+2312107224,Roam Disc 4 (2023),0
+2312107225,Roam Disc 4 (2023),0
+2312107227,Roam Disc 4 (2023),0
+2312107228,Roam Disc 4 (2023),0
+2313704155,Explore E+ 1 GTS (2023),0
+2313704157,Explore E+ 1 GTS (2023),0
+2313704158,Explore E+ 1 GTS (2023),0
+2212122104,ToughRoad SLR 2 (2022),1
+2212122105,ToughRoad SLR 2 (2022),1
+2212122107,ToughRoad SLR 2 (2022),1
+2212122108,ToughRoad SLR 2 (2022),1
+2213700154,Roam E+ (2022),1
+2213700155,Roam E+ (2022),0
+2213700157,Roam E+ (2022),1
+2213700158,Roam E+ (2022),0
+9312001100,Seek 1 (2026),0
+9312001300,Seek 1 (2026),0
+9314003100,Seek 2 (2026),0
+9135002100,Dream Big,1
+9135001100,Dream Big,1
+9127002120,Talon 24 Disc (2024),0
+9127001120,Talon 24 (2024),0
+9126001120,Talon 20 (2024),0
+9007001120,Animator C/B 12 (2024),0
+9007002120,Animator C/B 16 (2024),0
+9007002220,Animator C/B 16 (2024),0
+2213417150,Talon E+ 26 (2023),1
+9065019103,Langma Advanced SL 0,0
+9065019104,Langma Advanced SL 0,0
+9065019105,Langma Advanced SL 0,0
+9065019107,Langma Advanced SL 0,1
+9065020103,Langma Advanced SL 1,0
+9065020104,Langma Advanced SL 1,0
+9065020105,Langma Advanced SL 1,0
+9065020107,Langma Advanced SL 1,1
+9065015103,Langma Advanced Pro 0 Pro Compact,0
+9065015104,Langma Advanced Pro 0 Pro Compact,0
+9065015105,Langma Advanced Pro 0 Pro Compact,0
+9065015107,Langma Advanced Pro 0 Pro Compact,1
+9065018103,Langma Advanced Pro 1 Pro Compact,0
+9065018104,Langma Advanced Pro 1 Pro Compact,1
+9065018105,Langma Advanced Pro 1 Pro Compact,1
+9065018107,Langma Advanced Pro 1 Pro Compact,1
+9065022103,Langma Advanced 1 Pro Compact,0
+9065022104,Langma Advanced 1 Pro Compact,1
+9065022105,Langma Advanced 1 Pro Compact,1
+9065022107,Langma Advanced 1 Pro Compact,1
+9065024103,Langma Advanced 2 Pro Compact,1
+9065024104,Langma Advanced 2 Pro Compact,1
+9065024105,Langma Advanced 2 Pro Compact,1
+9065024107,Langma Advanced 2 Pro Compact,0
+9036003103,EnviLiv Advanced Pro 0 (2025),0
+9036003104,EnviLiv Advanced Pro 0 (2025),0
+9036003105,EnviLiv Advanced Pro 0 (2025),0
+9036003107,EnviLiv Advanced Pro 0 (2025),0
+9017019103,Avail Advanced Pro 0 (2025),0
+9017019104,Avail Advanced Pro 0 (2025),0
+9017019105,Avail Advanced Pro 0 (2025),1
+9017019107,Avail Advanced Pro 0 (2025),1
+9017021103,Avail Advanced Pro 1 (2025),1
+9017021104,Avail Advanced Pro 1 (2025),1
+9017021105,Avail Advanced Pro 1 (2025),1
+9017021107,Avail Advanced Pro 1 (2025),1
+9017016123,Avail Advanced 1 (2025),0
+9017016124,Avail Advanced 1 (2025),0
+9017016125,Avail Advanced 1 (2025),1
+9017016127,Avail Advanced 1 (2025),1
+9017017123,Avail Advanced 2 (2025),0
+9017017124,Avail Advanced 2 (2025),0
+9017017125,Avail Advanced 2 (2025),1
+9017017127,Avail Advanced 2 (2025),0
+9017025123,Avail AR 1 (2025),1
+9017025124,Avail AR 1 (2025),0
+9017025125,Avail AR 1 (2025),0
+9017025127,Avail AR 1 (2025),1
+9017028123,Avail AR 2 (2025),1
+9017028124,Avail AR 2 (2025),1
+9017028125,Avail AR 2 (2025),1
+9017028127,Avail AR 2 (2025),1
+9017026123,Avail AR 3 (2025),0
+9017026124,Avail AR 3 (2025),1
+9017026125,Avail AR 3 (2025),0
+9017026127,Avail AR 3 (2025),1
+6068000103,Avail Advanced E+ Elite 0 (2025),0
+6068000104,Avail Advanced E+ Elite 0 (2025),0
+6068000105,Avail Advanced E+ Elite 0 (2025),1
+6068001103,Avail Advanced E+ Elite 1 (2025),0
+6068001104,Avail Advanced E+ Elite 1 (2025),0
+6068001105,Avail Advanced E+ Elite 1 (2025),1
+6068002103,Avail Advanced E+ Elite 2 (2025),0
+6068002104,Avail Advanced E+ Elite 2 (2025),0
+6068002105,Avail Advanced E+ Elite 2 (2025),1
+6068002107,Avail Advanced E+ Elite 2 (2025),1
+6068003103,Avail Advanced E+ Elite AR (2025),0
+6068003104,Avail Advanced E+ Elite AR (2025),0
+6068003105,Avail Advanced E+ Elite AR (2025),1
+6068003107,Avail Advanced E+ Elite AR (2025),1
+9139001102,Avow Advanced SL (2025),0
+9139001103,Avow Advanced SL (2025),0
+9139001104,Avow Advanced SL (2025),0
+9139001105,Avow Advanced SL (2025),1
+9105006123,Thrive 2 (2025),0
+9105006124,Thrive 2 (2025),0
+9105006125,Thrive 2 (2025),0
+9105006127,Thrive 2 (2025),0
+9106006123,Thrive Advanced 1 (2025),0
+9106006124,Thrive Advanced 1 (2025),0
+9106006125,Thrive Advanced 1 (2025),0
+9106006127,Thrive Advanced 1 (2025),1
+9065002103,Langma Advanced Disc 1 Pro Compact (2024),0
+9065002104,Langma Advanced Disc 1 Pro Compact (2024),0
+9065002105,Langma Advanced Disc 1 Pro Compact (2024),1
+9065002107,Langma Advanced Disc 1 Pro Compact (2024),1
+9065008103,Langma Advanced Disc 2 Pro Compact (2024),1
+9065008104,Langma Advanced Disc 2 Pro Compact (2024),0
+9065008105,Langma Advanced Disc 2 Pro Compact (2024),1
+9065008107,Langma Advanced Disc 2 Pro Compact (2024),1
+9065013103,Langma Advanced SL Disc 0 (2024),0
+9065013104,Langma Advanced SL Disc 0 (2024),0
+9065013105,Langma Advanced SL Disc 0 (2024),0
+9065013107,Langma Advanced SL Disc 0 (2024),1
+9065010103,Langma Advanced Pro Disc 0 Pro Compact (2024),0
+9065010104,Langma Advanced Pro Disc 0 Pro Compact (2024),0
+9065010105,Langma Advanced Pro Disc 0 Pro Compact (2024),0
+9065010107,Langma Advanced Pro Disc 0 Pro Compact (2024),1
+9065011103,Langma Advanced Pro Disc 1 AR (2024),0
+9065011104,Langma Advanced Pro Disc 1 AR (2024),1
+9065011105,Langma Advanced Pro Disc 1 AR (2024),1
+9065011107,Langma Advanced Pro Disc 1 AR (2024),1
+9065012103,Langma Advanced Pro Disc 1 Pro Compact (2024),0
+9065012104,Langma Advanced Pro Disc 1 Pro Compact (2024),1
+9065012105,Langma Advanced Pro Disc 1 Pro Compact (2024),1
+9065012107,Langma Advanced Pro Disc 1 Pro Compact (2024),1
+9017007103,Avail Advanced Pro 0 (2024),0
+9017007104,Avail Advanced Pro 0 (2024),0
+9017007105,Avail Advanced Pro 0 (2024),1
+9017007107,Avail Advanced Pro 0 (2024),1
+9017008103,Avail Advanced Pro 1 (2024),0
+9017008104,Avail Advanced Pro 1 (2024),0
+9017008105,Avail Advanced Pro 1 (2024),0
+9017008107,Avail Advanced Pro 1 (2024),1
+9017004103,Avail Advanced 1 (2024),0
+9017004104,Avail Advanced 1 (2024),0
+9017004105,Avail Advanced 1 (2024),0
+9017004107,Avail Advanced 1 (2024),0
+9017005103,Avail Advanced 2 (2024),0
+9017005104,Avail Advanced 2 (2024),1
+9017005105,Avail Advanced 2 (2024),0
+9017005107,Avail Advanced 2 (2024),0
+9017012123,Avail AR 4 (2024),0
+9017012124,Avail AR 4 (2024),1
+9017012125,Avail AR 4 (2024),0
+9017012127,Avail AR 4 (2024),0
+2310121123,Thrive 1 (2023),1
+2310121124,Thrive 1 (2023),0
+2310121125,Thrive 1 (2023),0
+2310205123,Flourish FS (2023),1
+2310205124,Flourish FS (2023),1
+2310205125,Flourish FS (2023),0
+2310236123,Flourish 3 (2023),1
+2310236124,Flourish 3 (2023),1
+2310236125,Flourish 3 (2023),0
+2213105103,Thrive E+ EX Pro (2022),0
+2213105104,Thrive E+ EX Pro (2022),1
+2213105105,Thrive E+ EX Pro (2022),0
+2213105107,Thrive E+ EX Pro (2022),1
+2210108223,Alight DD Disc 3 (2022),1
+2210108224,Alight DD Disc 3 (2022),0
+2210108225,Alight DD Disc 3 (2022),0
+2210204123,Flourish 4 (2022),1
+2210204124,Flourish 4 (2022),1
+2210204125,Flourish 4 (2022),1
+2214006120,Alight 24 (2022),1
+9135004100,Faith Liv (2025),1
+9101014123,Tempt 1 (2025),1
+9101014124,Tempt 1 (2025),1
+9101017124,Tempt 1 (2025),1
+9101017125,Tempt 1 (2025),1
+9101015123,Tempt 2 (2025),1
+9101015124,Tempt 2 (2025),1
+9101018124,Tempt 2 (2025),1
+9101018125,Tempt 2 (2025),1
+9101015223,Tempt 2 (2025),1
+9101015224,Tempt 2 (2025),1
+9101018224,Tempt 2 (2025),1
+9101018225,Tempt 2 (2025),1
+9101019124,Tempt 3 (2025),1
+9101019125,Tempt 3 (2025),0
+9101019224,Tempt 3 (2025),1
+9101019225,Tempt 3 (2025),1
+9101022124,Tempt 4 (2025),1
+9101022125,Tempt 4 (2025),0
+9101022224,Tempt 4 (2025),0
+9101022225,Tempt 4 (2025),0
+9059002104,Intrigue Advanced 29 1 (2024),1
+9059002105,Intrigue Advanced 29 1 (2024),1
+9059002107,Intrigue Advanced 29 1 (2024),1
+9059005103,Intrigue LT Advanced 1 (2024),1
+9059005104,Intrigue LT Advanced 1 (2024),1
+9059005105,Intrigue LT Advanced 1 (2024),1
+9059005107,Intrigue LT Advanced 1 (2024),1
+6029031103,Intrigue X Advanced E+ Elite 2 (2024),1
+6029031104,Intrigue X Advanced E+ Elite 2 (2024),1
+6029031105,Intrigue X Advanced E+ Elite 2 (2024),1
+6029031107,Intrigue X Advanced E+ Elite 2 (2024),1
+6029032103,Intrigue X Advanced E+ Elite 3 (2024),1
+6029032104,Intrigue X Advanced E+ Elite 3 (2024),1
+6029032105,Intrigue X Advanced E+ Elite 3 (2024),1
+6029032107,Intrigue X Advanced E+ Elite 3 (2024),1
+2311098103,Pique Advanced Pro 29 (2023),0
+2311098104,Pique Advanced Pro 29 (2023),0
+2311098105,Pique Advanced Pro 29 (2023),0
+2311098107,Pique Advanced Pro 29 (2023),1
+9072002103,Pique Advanced 29 1 (2024),1
+9072002104,Pique Advanced 29 1 (2024),0
+9072002105,Pique Advanced 29 1 (2024),1
+9072002107,Pique Advanced 29 1 (2024),1
+9072004103,Pique Advanced 29 3 (2024),0
+9072004104,Pique Advanced 29 3 (2024),1
+9072004105,Pique Advanced 29 3 (2024),1
+9072004107,Pique Advanced 29 3 (2024),1
+2311087123,Lurra 1 (2023),1
+2311087124,Lurra 1 (2023),0
+2311089124,Lurra 1 (2023),0
+2311089125,Lurra 1 (2023),0
+2311089127,Lurra 1 (2023),0
+2311088223,Lurra 2 (2023),1
+2311088224,Lurra 2 (2023),1
+2311090224,Lurra 2 (2023),0
+2311090225,Lurra 2 (2023),0
+2311090227,Lurra 2 (2023),0
+2311097103,Pique 29 (2023),0
+2311097104,Pique 29 (2023),0
+2311097105,Pique 29 (2023),1
+2311097107,Pique 29 (2023),1
+2313324103,Embolden E+ 2 625 (2023),0
+2313324104,Embolden E+ 2 625 (2023),1
+2313324105,Embolden E+ 2 625 (2023),1
+2313324107,Embolden E+ 2 625 (2023),1
+2313406153,Tempt E+ 3 (2023),0
+2313406154,Tempt E+ 3 (2023),0
+2313406155,Tempt E+ 3 (2023),0
+2313406157,Tempt E+ 3 (2023),0
+2311092103,Intrigue LT Advanced Pro 0 (2023),1
+2311092104,Intrigue LT Advanced Pro 0 (2023),1
+2311092105,Intrigue LT Advanced Pro 0 (2023),1
+2311092107,Intrigue LT Advanced Pro 0 (2023),1
+2311093103,Intrigue LT Advanced Pro 1 (2023),0
+2311093104,Intrigue LT Advanced Pro 1 (2023),1
+2311093105,Intrigue LT Advanced Pro 1 (2023),1
+2311093107,Intrigue LT Advanced Pro 1 (2023),0
+2311094104,Intrigue LT Advanced Pro 2 (2023),1
+2311094105,Intrigue LT Advanced Pro 2 (2023),1
+2311094107,Intrigue LT Advanced Pro 2 (2023),1
+2311095103,Intrigue LT 1 (2023),0
+2311095104,Intrigue LT 1 (2023),1
+2311095105,Intrigue LT 1 (2023),1
+2311095107,Intrigue LT 1 (2023),1
+2311096103,Intrigue LT 2 (2023),0
+2311096104,Intrigue LT 2 (2023),0
+2311096105,Intrigue LT 2 (2023),1
+2311096107,Intrigue LT 2 (2023),1
+2311025104,Intrigue Advanced Pro 29 1 (2023),1
+2311025105,Intrigue Advanced Pro 29 1 (2023),1
+2311025107,Intrigue Advanced Pro 29 1 (2023),1
+2311026104,Intrigue Advanced Pro 29 2 (2023),1
+2311026105,Intrigue Advanced Pro 29 2 (2023),1
+2311026107,Intrigue Advanced Pro 29 2 (2023),1
+2311020104,Intrigue 29 1 (2023),0
+2311020105,Intrigue 29 1 (2023),1
+2311020107,Intrigue 29 1 (2023),1
+2313319103,Intrigue X Advanced E+ Elite 1 (2023),0
+2313319104,Intrigue X Advanced E+ Elite 1 (2023),1
+2313319105,Intrigue X Advanced E+ Elite 1 (2023),1
+2313319107,Intrigue X Advanced E+ Elite 1 (2023),1
+2313320103,Intrigue X Advanced E+ Elite 2 (2023),0
+2313320104,Intrigue X Advanced E+ Elite 2 (2023),0
+2313320105,Intrigue X Advanced E+ Elite 2 (2023),0
+2313320107,Intrigue X Advanced E+ Elite 2 (2023),1
+2313321103,Intrigue X Advanced E+ Elite 3 (2023),0
+2313321104,Intrigue X Advanced E+ Elite 3 (2023),0
+2313321105,Intrigue X Advanced E+ Elite 3 (2023),0
+2313321107,Intrigue X Advanced E+ Elite 3 (2023),0
+2211032103,Pique Advanced Pro 29 1 (2022),0
+2211032104,Pique Advanced Pro 29 1 (2022),0
+2211032105,Pique Advanced Pro 29 1 (2022),0
+2211032107,Pique Advanced Pro 29 1 (2022),1
+2211002203,Embolden 2 (2022),1
+2211073204,Embolden 2 (2022),0
+2211073205,Embolden 2 (2022),0
+2211073207,Embolden 2 (2022),1
+2211022103,Intrigue Advanced (2022),0
+2211022104,Intrigue Advanced (2022),0
+2211022105,Intrigue Advanced (2022),1
+2211026104,Intrigue Advanced Pro 29 2 (2022),0
+2211026105,Intrigue Advanced Pro 29 2 (2022),1
+2211026107,Intrigue Advanced Pro 29 2 (2022),1
+2211025104,Intrigue Advanced Pro 29 1 (2022),0
+2211025105,Intrigue Advanced Pro 29 1 (2022),1
+2211025107,Intrigue Advanced Pro 29 1 (2022),1
+2211021104,Intrigue 29 1 (2022),0
+2211021105,Intrigue 29 1 (2022),0
+2211021107,Intrigue 29 1 (2022),1
+2211125123,Tempt 3 (2022),1
+2211125124,Tempt 3 (2022),1
+2211122124,Tempt 3 (2022),0
+2211125125,Tempt 3 (2022),0
+2211122125,Tempt 3 (2022),0
+2214055125,STP 26 Liv (2022),0
+2214055126,STP 26 Liv (2022),1
+2111025104,Intrigue Advanced Pro 29 1 (2021),0
+2111025105,Intrigue Advanced Pro 29 1 (2021),0
+2111025107,Intrigue Advanced Pro 29 1 (2021),1
+9032010103,Devote Advanced Pro (2025),0
+9032010104,Devote Advanced Pro (2025),0
+9032010105,Devote Advanced Pro (2025),0
+9032010107,Devote Advanced Pro (2025),0
+9032012103,Devote Advanced 1 (2025),1
+9032012104,Devote Advanced 1 (2025),0
+9032012105,Devote Advanced 1 (2025),0
+9032012107,Devote Advanced 1 (2025),1
+9032013103,Devote Advanced 2 (2025),1
+9032013104,Devote Advanced 2 (2025),0
+9032013105,Devote Advanced 2 (2025),0
+9032013107,Devote Advanced 2 (2025),1
+9083014123,Rove 1 (2025),1
+9083014124,Rove 1 (2025),0
+9083014125,Rove 1 (2025),1
+9083014127,Rove 1 (2025),0
+9083012123,Rove 2 (2025),1
+9083012124,Rove 2 (2025),1
+9083012125,Rove 2 (2025),1
+9083012127,Rove 2 (2025),0
+9032009103,Devote Advanced Pro (2024),0
+9032009104,Devote Advanced Pro (2024),0
+9032009105,Devote Advanced Pro (2024),0
+9032009107,Devote Advanced Pro (2024),1
+9032006123,Devote Advanced 1 (2024),0
+9032006124,Devote Advanced 1 (2024),0
+9032006125,Devote Advanced 1 (2024),0
+9032006127,Devote Advanced 1 (2024),1
+9032007123,Devote Advanced 2 (2024),0
+9032007124,Devote Advanced 2 (2024),0
+9032007125,Devote Advanced 2 (2024),0
+9032007127,Devote Advanced 2 (2024),1
+9032002123,Devote 1 (2024),0
+9032002124,Devote 1 (2024),0
+9032002125,Devote 1 (2024),0
+9032002127,Devote 1 (2024),0
+2313713153,Amiti E+ 1 (2023),1
+2313713154,Amiti E+ 1 (2023),0
+2313713155,Amiti E+ 1 (2023),0
+2312001103,Brava Advanced Pro 0 (2023),1
+2312001104,Brava Advanced Pro 0 (2023),1
+2312001105,Brava Advanced Pro 0 (2023),1
+2312002103,Brava Advanced Pro 1 (2023),1
+2312002104,Brava Advanced Pro 1 (2023),1
+2312002105,Brava Advanced Pro 1 (2023),1
+2312018103,Brava Advanced Pro 2 (2023),1
+2312018104,Brava Advanced Pro 2 (2023),1
+2312018105,Brava Advanced Pro 2 (2023),1
+2212021123,Devote Advanced 1 (2022),0
+2212021124,Devote Advanced 1 (2022),0
+2212021125,Devote Advanced 1 (2022),0
+2212021127,Devote Advanced 1 (2022),1
+2212022123,Devote Advanced 2 (2022),0
+2212022124,Devote Advanced 2 (2022),0
+2212022125,Devote Advanced 2 (2022),0
+2212022127,Devote Advanced 2 (2022),1
+2212001103,Brava Advanced Pro 0 (2022),1
+2212001104,Brava Advanced Pro 0 (2022),1
+2212001105,Brava Advanced Pro 0 (2022),1
+2212002103,Brava Advanced Pro 1 (2022),0
+2212002104,Brava Advanced Pro 1 (2022),0
+2212002105,Brava Advanced Pro 1 (2022),1
+2212018103,Brava Advanced Pro 2 (2022),1
+2212018104,Brava Advanced Pro 2 (2022),0
+2212018105,Brava Advanced Pro 2 (2022),0
+2212112123,Rove 2 DD (2022),1
+2212112124,Rove 2 DD (2022),0
+2212112125,Rove 2 DD (2022),0
+2212114223,Rove 3 DD (2022),1
+2212114224,Rove 3 DD (2022),0
+2212114225,Rove 3 DD (2022),0
+2212114227,Rove 3 DD (2022),0
+9313002100,Seek 1 (2026),0
+9315004100,Seek 2 (2026),0
+9135004100,Faith Liv (2025),1
+9135003100,Faith 24 Liv (2025),1
+9127006120,Tempt 24 Disc (2024),0
+9127005120,Tempt 24 (2024),0
+9126005120,Tempt 20 (2024),1
+9001002120,Adore C/B 12 (2024),1
+9001003120,Adore C/B 16 (2024),1
+9001003220,Adore C/B 16 (2024),1
+9001001120,Adore 20 (2024),1
+9001001220,Adore 20 (2024),1
+9090004120,STP 20 FS Liv (2024),0
+9090008120,STP 24 FS Liv (2024),1
+2213418150,Tempt E+ 26 (2023),1
+2214055125,STP 26 Liv (2022),0
+2214055126,STP 26 Liv (2022),1
+2214006120,Alight 24 (2022),1
